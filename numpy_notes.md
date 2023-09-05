@@ -14,3 +14,11 @@ import numpy as np
 # Create a 2x3 array filled with zeros
 zeros_array = np.zeros((2, 3))
 
+```
+
+import numpy as np
+
+# Create a 3x3 identity matrix
+identity_matrix = np.eye(3)
+```
+
