@@ -1,6 +1,3 @@
-
-
-
 ```shell
 apt-get install poppler-utils
 pip install pdf2image
@@ -13,7 +10,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from skimage.io import imread
 from skimage.transform import resize
-
+```
 
 ```python
 def plot(x):
@@ -37,23 +34,21 @@ def get_slides(url):
     return images
 ```
 
-```python
 
+```python
 My_Data_Deck = "https://docs.google.com/presentation/d/1haspTDMDRBqYV1HqobesPBlry8xl7h2aeaOQMy7J5P0/edit?pli=1#slide=id.g206f8279a60_0_5"
 ```
 
-
-
+```python
 image_list = get_slides(My_Data_Deck)
-
-```
 
 n = len(image_list)
 
-
-````
-
 for i in range(n):
+
+    plot(image_list[i])
+    print(np.array(image_list[i]).shape)
+```
 
 ```
 
