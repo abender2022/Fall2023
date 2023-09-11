@@ -40,7 +40,7 @@ My_Data_Deck = "https://docs.google.com/presentation/d/1haspTDMDRBqYV1HqobesPBlr
 ```
 
 ```python
-image_list = get_slides(My_Data_Deck)
+image_list = get_slides(Data_Deck)
 
 n = len(image_list)
 
