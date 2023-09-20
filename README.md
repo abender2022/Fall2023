@@ -27,5 +27,5 @@
 
 [Matrix Vector Notes](https://colab.research.google.com/drive/1J9-YxZhu84OWo7jQGtaxj-9-S05dN-2Q?usp=sharing)
 
-[Ava Data Science 2023 MNIST](https://colab.research.google.com/drive/1ZwtmwUwV-1tdY_0fdanxLJ55ucGh-jqf?usp=sharing)
+[Ava Data Science 2023 MNIST](https://colab.research.google.com/drive/1K92t60sFLLO_NutmmrRgXVnC2oES7ZND?usp=sharing)
 
