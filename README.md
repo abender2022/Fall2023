@@ -31,3 +31,6 @@
 
 [Ava Data Science 2023 MNIST](https://colab.research.google.com/drive/1K92t60sFLLO_NutmmrRgXVnC2oES7ZND?usp=sharing)
 
+
+
+## Links
