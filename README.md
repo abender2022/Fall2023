@@ -21,6 +21,8 @@
 
 ## Notebooks
 
+[Recipe Book](https://colab.research.google.com/drive/1u8j-W_AFuglqqJQtI6T3KohwK8-1hf4h?usp=sharing)
+
 [Notebook1](https://colab.research.google.com/drive/1jTwaVjYUuwJ2SG0snIc25zsO82BZZUpg?usp=sharing)
 
 [Ava Data Images Intro Load Slides](https://colab.research.google.com/drive/1MIozHHBE-MU3d4H6ef08YUZWMiPRDUZ2?usp=sharing)
