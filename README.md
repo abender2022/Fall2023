@@ -11,7 +11,7 @@
 
 ## App Demo
 
-(file:///Users/avabender/Desktop/cointoss6.html)
+(/Users/avabender/Desktop/cointoss6.html)
 
 
 ## My Website
