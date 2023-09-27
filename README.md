@@ -11,7 +11,7 @@
 
 ## App Demo
 
-(/Users/avabender/Desktop/cointoss6.html)
+[Coin FLipper]()
 
 
 ## My Website
