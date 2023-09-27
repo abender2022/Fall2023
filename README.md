@@ -11,7 +11,7 @@
 
 ## App Demo
 
-file:///Users/avabender/Downloads/cointoss7.html
+[Coin Flipper](https://abender2022.github.io/coin_toss/)
 
 
 ## My Website
