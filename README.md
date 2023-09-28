@@ -11,7 +11,7 @@
 
 ## App Demo
 
-[Coin Flipper](https://abender2022.github.io/coinflip/)
+[Coin Flipper]([https://abender2022.github.io/coinflip/](https://abender2022.github.io/Data_Website/cointoss7.html))
 
 
 ## My Website
