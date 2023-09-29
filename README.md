@@ -17,7 +17,7 @@
 
 [To Do List](https://abender2022.github.io/Data_Website/ToDoList.html)
 
-[Random Picker](https://abender2022.github.io/Data_Website/RandPicker.html)
+[Random Picker](https://abender2022.github.io/Data_Website/Randpicker.html)
 
 [Countdown Timer](https://abender2022.github.io/Data_Website/countdown.html)
 
