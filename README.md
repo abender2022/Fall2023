@@ -23,6 +23,10 @@
 
 [Dice Roller](https://abender2022.github.io/Data_Website/Dice.html)
 
+[Trash Night](https://abender2022.github.io/Data_Website/trashnight.html)
+
+
+
 ## My Website
 
 [Ava's Website](https://abender2022.github.io/Data_Website/index.html)
