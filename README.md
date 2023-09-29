@@ -21,6 +21,7 @@
 
 [Countdown Timer](https://abender2022.github.io/Data_Website/countdown.html)
 
+[Dice Roller](https://abender2022.github.io/Data_Website/Dice.html)
 
 ## My Website
 
