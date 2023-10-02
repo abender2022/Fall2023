@@ -28,6 +28,7 @@
 ## My App Demos
 
 [Jump Game](https://abender2022.github.io/Data_Website/jump.html)
+[Press spacebar to begin]
 
 [Stranger Things Quiz](https://abender2022.github.io/Data_Website/STGame.html)
 
