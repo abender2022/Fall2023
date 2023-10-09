@@ -66,6 +66,7 @@
 
 [Deap Learning Visual Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 
+[Computer Literacy Project](https://clp.bbcrewind.co.uk/programmes)
 
-
+[Tensor Space](https://tensorspace.org/html/playground/alexnet.html)
 
