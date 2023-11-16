@@ -79,8 +79,6 @@
 
 ## GIF
 
-gif1.gif
-
 ![candle](gif1.gif)
 
 
