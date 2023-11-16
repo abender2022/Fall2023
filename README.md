@@ -77,8 +77,9 @@
 [Tensor Space](https://tensorspace.org/html/playground/alexnet.html)
 
 
-## GIF
+## Pose
 
 ![candle](gif1.gif)
 
+< img src="pose.png" width="500" >
 
