@@ -81,5 +81,5 @@
 
 ![candle](gif1.gif)
 
-< img src="pose.png" width="500" >
+<img src="pose.png" width="500">
 
