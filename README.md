@@ -62,6 +62,19 @@
 
 [Custom Data Filter](https://colab.research.google.com/drive/1t97HXnuHNHHOeTKADFFIA5ycf-JCHq4Z?usp=sharing)
 
+[Pose Machine](https://colab.research.google.com/drive/1BZBGKpceLqz5gi9phE3OnYrBJQWjCTcZ?usp=sharing)
+
+[SAM](https://colab.research.google.com/drive/1Uqh_48-YqvHL_FQPvwSrRHcrT9lIFpD_?usp=sharing)
+
+[YOLOv5](https://colab.research.google.com/drive/1utObeYZqo2e-ZSKry0Pu--1R1iXspulW?usp=sharing)
+
+<hr>
+
+[Alexnet Candles](https://colab.research.google.com/drive/1k2DbZNns2Mcn0VL2yIxZh8zxRvDX_w6M?usp=sharing)
+
+[Alexnet 2](https://colab.research.google.com/drive/1HjevEJdxMKBQnBqfdU7aS9RLc_boNzcJ?usp=sharing)
+
+
 
 ## Links
 
