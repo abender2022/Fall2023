@@ -99,5 +99,5 @@
 
 ## Resume
 
-[Resume](file:///Users/avabender/Downloads/AltaCV_Template.pdf)
+[Resume](resume.pdf)
 
