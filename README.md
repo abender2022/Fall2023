@@ -96,3 +96,8 @@
 
 <img src="pose.png" width="500">
 
+
+## Resume
+
+[Resume](file:///Users/avabender/Downloads/AltaCV_Template.pdf)
+
