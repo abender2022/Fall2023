@@ -90,11 +90,6 @@
 [Tensor Space](https://tensorspace.org/html/playground/alexnet.html)
 
 
-## Pose
-
-![candle](gif1.gif)
-
-<img src="pose.png" width="500">
 
 
 ## Resume
